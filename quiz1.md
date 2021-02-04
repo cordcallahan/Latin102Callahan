@@ -4,14 +4,15 @@ Translate prepositional phrases.
 
 filiam     feminine, accusative, singular
 in coniugium
-animo
+animo.    masculine, dative/ablative, singular
 uirgine
-parentes
+parentes.  masculine, nomative/accusative/vocative, plural
 ad uxorem
 
 Part 2: recognizing verbs
 For each of the following verbs,identify the tense, voice, mood, person, and number.
 if the form is singular, convert to plural; if the form is plural, convert to singular
+
 petivisset
 necauit
 necari
