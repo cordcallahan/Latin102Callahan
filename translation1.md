@@ -1,4 +1,8 @@
-A. Grammatical analysis
+**Needs revisions**
+**Good job on the translation.**
+
+A. Grammatical analysis ❌ *Review what we did in breakout session on Monday to see how we're anlayzing dependency relations.*
+
 
 Hercules cum *in hospitium* ad Dexamenum
 	>regem *venisset*
@@ -20,7 +24,7 @@ Hercules *interuenit*
 
 B. Grammatical questions
 Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
- 
+ ❌ *Write a dictionary entry*
 Accusative singular
  
 Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
@@ -30,8 +34,9 @@ Accusative, singular, feminine
  
 Identify the form abesset, and explain why it is this tense and mood.
  
-Present, Indicative, Active
-The clause is expressing time which indicates an indicative mood/active tense because its a statement as to what is happening
+Present, Indicative, Active ❌
+The clause is expressing time which indicates an indicative mood/active tense because its a statement as to what is happening ❌
+
  
 Identify the form venisset, and explain why it is this tense and mood.
  
@@ -46,14 +51,15 @@ polliceor
 Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
  
 Ablative, singular, neuter
-It is explaining the cause
+It is explaining the cause ❌
+
 
 C. Translation
 
-Hercules hosted king Dexamenus with his daughter Deianira to take her virginity and wanted to marry her.
+Hercules hosted king Dexamenus with his daughter Deianira to take her virginity and wanted to marry her. ❌
 When Hercules went missing, Eurytion the centar asks Deianira to be his wife.
-Because her father was afraid of the centar, he promised he would give her away.
-At that time, the centar came with his brothers to the wedding. 
+Because her father was afraid of the centaur, he promised he would give her away.
+At that time, the centaur came with his brothers to the wedding. 
 Hercules intervened, killed the centar and abducted Deianira.
 
 
