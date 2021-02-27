@@ -1,3 +1,7 @@
+**Needs completion**
+**I'm giving this credit for submission, but you're skirting the line.**
+**I'll expect some kind of response to the question for credit on the next translation assignment.**
+
 1. Sentence should use a temporal clause to express that when Hercules came to Oechalia, he asked to marry Iole.
 Temporal clause is circumstance→ subjunctive  
 Secondary sequence(past tense)
