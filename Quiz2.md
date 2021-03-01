@@ -8,6 +8,8 @@ Vetaverunt
 vetavissent
 
 
+
+
 Video,
 Vident
 Videant
@@ -19,6 +21,8 @@ Viderunt
 vidissent
 
 
+
+
 Pollicentur
 Polliceantur
 Pollicebantur
@@ -27,6 +31,9 @@ Pollicerentur
 Polliciti sunt
 ?
 Polliciti essent
+
+
+
 
 The brothers, who came to the wedding with Eurytion, were violent Centaurs.
 
