@@ -1,4 +1,4 @@
-**Needs revisions**
+**Needs revisions**.  Revsions below
 **Good job on the translation.**
 
 A. Grammatical analysis ❌ *Review what we did in breakout session on Monday to see how we're anlayzing dependency relations.*
@@ -63,3 +63,68 @@ At that time, the centaur came with his brothers to the wedding.
 Hercules intervened, killed the centar and abducted Deianira.
 
 
+
+
+
+Revisions
+
+A. Grammatical analysis
+
+Hercules cum *in hospitium* ad Dexamenum
+	>regem *venisset*
+	>>eiusque filiam Deianiram *deuirginasset*
+	>>>volebat eam *uxorem* ducere
+
+Cum Hercules *abesset*
+	>centaurus Eurytion *petit* 
+>>Deianiram *uxorem*
+
+Quia pater eius centaurum *timebat*
+	>*pollicitus* est
+	>>se *daturum*
+
+Tempore certo,
+ 	>*venit* centaurus cum fratribus ad nuptias
+
+Hercules *interuenit* centaurum *interfecit*,
+	>Deianiram *abduxit*
+
+B. Grammatical questions
+Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
+ 
+Dexamenum (accusative, singular)
+Dexamenus, Dexameni, masculine
+ 
+Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
+ 
+Deianiram (accusative, singular)
+Deianira, Deianirae, feminine
+ 
+Identify the form abesset, and explain why it is this tense and mood.
+ 
+Abesset (Third person, singular, imperfect, active, subjunctive)
+Circumstance, past tense, same time/ later, imperfect
+ 
+Identify the form venisset, and explain why it is this tense and mood.
+ 
+Venisset (Third person, singular, pulperfect, active, subjunctive)
+Circumstance, past tense, earlier, pulperfect
+ 
+Identify the form pollicitus est. What dictionary form would you look under to find this verb?
+ 
+Present, indicative, active
+polliceor
+ 
+Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
+ 
+Tempore (singular, ablative)
+Certo (Singular, ablative)
+Ablative of cause at a time
+
+C. Translation
+
+Hercules hosted king Dexamenus and daughter Deianira because he wanted to take her virginity and marry her.
+When Hercules went missing, Eurytion the centar asks Deianira to be his wife.
+Because her father was afraid of the centaur, he promised he would give her away.
+At that time, the centaur came with his brothers to the wedding. 
+Hercules intervened, killed the centar and abducted Deianira.
