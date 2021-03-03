@@ -63,7 +63,7 @@ At that time, the centaur came with his brothers to the wedding.
 Hercules intervened, killed the centar and abducted Deianira.
 
 
-
+--------------------------------------------------------------------------------------------------
 
 
 Revisions
@@ -71,23 +71,23 @@ Revisions
 A. Grammatical analysis
 
 Hercules cum *in hospitium* ad Dexamenum
-	>regem *venisset*
-	>>eiusque filiam Deianiram *deuirginasset*
-	>>>volebat eam *uxorem* ducere
+>regem *venisset*
+>>eiusque filiam Deianiram *deuirginasset*
+>>>volebat eam *uxorem* ducere
 
 Cum Hercules *abesset*
-	>centaurus Eurytion *petit* 
+>centaurus Eurytion *petit* 
 >>Deianiram *uxorem*
 
 Quia pater eius centaurum *timebat*
-	>*pollicitus* est
-	>>se *daturum*
+>*pollicitus* est
+>>se *daturum*
 
 Tempore certo,
- 	>*venit* centaurus cum fratribus ad nuptias
+>*venit* centaurus cum fratribus ad nuptias
 
 Hercules *interuenit* centaurum *interfecit*,
-	>Deianiram *abduxit*
+>Deianiram *abduxit*
 
 B. Grammatical questions
 Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
