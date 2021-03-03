@@ -90,32 +90,33 @@ Hercules *interuenit* centaurum *interfecit*,
 >Deianiram *abduxit*
 
 B. Grammatical questions
-Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
+
+1.Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
  
 Dexamenum (accusative, singular)
 Dexamenus, Dexameni, masculine
  
-Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
+2.Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
  
 Deianiram (accusative, singular)
 Deianira, Deianirae, feminine
  
-Identify the form abesset, and explain why it is this tense and mood.
+3.Identify the form abesset, and explain why it is this tense and mood.
  
 Abesset (Third person, singular, imperfect, active, subjunctive)
 Circumstance, past tense, same time/ later, imperfect
  
-Identify the form venisset, and explain why it is this tense and mood.
+4.Identify the form venisset, and explain why it is this tense and mood.
  
 Venisset (Third person, singular, pulperfect, active, subjunctive)
 Circumstance, past tense, earlier, pulperfect
  
-Identify the form pollicitus est. What dictionary form would you look under to find this verb?
+5.Identify the form pollicitus est. What dictionary form would you look under to find this verb?
  
 Present, indicative, active
 polliceor
  
-Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
+6.Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
  
 Tempore (singular, ablative)
 Certo (Singular, ablative)
