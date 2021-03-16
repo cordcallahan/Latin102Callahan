@@ -1,10 +1,13 @@
+**Needs revisions**
+**Please include questions with your quiz submissions**
+
 Vetant
 Vetent
 Vetabant
-Veto
+Veto❌
 Vetarent
 Vetaverunt
-?
+?❌
 vetavissent
 
 
@@ -14,10 +17,10 @@ Video,
 Vident
 Videant
 Videbant
-Video
+Video❌
 Viderent
 Viderunt
-?
+?❌
 vidissent
 
 
@@ -26,10 +29,10 @@ vidissent
 Pollicentur
 Polliceantur
 Pollicebantur
-Polliceor
+Polliceor❌
 Pollicerentur
 Polliciti sunt
-?
+?❌
 Polliciti essent
 
 
