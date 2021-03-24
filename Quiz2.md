@@ -2,9 +2,9 @@ Verb synopses
 Check one verb of the first or second conjugation *other than8 amo or habeo, and one verb of the third or third-io conjugation other than capio or duco. For each verb, complete the following synopsis, and translate indicative forms as complete sentences.
 
 Vetō
-third plural present indicative active - Vetant
-third plural present subjunctive active - Vetent
-third plural imperfect indicative active - Vetabant
+-third plural present indicative active - Vetant
+-third plural present subjunctive active - Vetent
+-third plural imperfect indicative active - Vetabant
 present infinitive active - Vetare
 third plural imperfect subjunctive active - Vetarent
 third plural perfect indicative active - Vetaverunt
