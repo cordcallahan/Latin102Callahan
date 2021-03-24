@@ -37,9 +37,9 @@ third plural perfect indicative active - Viderunt
 perfect infinitive passive - Visum Esse
 
 third plural pluperfect subjunctive active - Vidissent
-
-
-
+.
+.
+.
 Polliceor
 
 third plural present indicative active - Pollicentur
