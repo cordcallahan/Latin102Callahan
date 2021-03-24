@@ -80,7 +80,7 @@ English and Latin Relative Clauses
 3. Nominative, subject of the action
 
 9-Hercules, who Apollo refused to give an oracle, stole a tripod from the temple at Delphi.
-1.qui
+1. qui
 2. Hercules, masculine, singular
 3. Nominative, subject of the action
 
