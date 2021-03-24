@@ -1,7 +1,7 @@
 Verb synopses
 Check one verb of the first or second conjugation *other than8 amo or habeo, and one verb of the third or third-io conjugation other than capio or duco. For each verb, complete the following synopsis, and translate indicative forms as complete sentences.
 
-Vetō
+*Vetō*
 
 third plural present indicative active - Vetant
 
@@ -21,7 +21,7 @@ third plural pluperfect subjunctive active - vetavissent
 
 
 
-Video
+*Video*
 
 third plural present indicative active - Vident
 
@@ -42,7 +42,7 @@ third plural pluperfect subjunctive active - Vidissent
 
 
 
-Polliceor
+*Polliceor*
 
 third plural present indicative active - Pollicentur
 
@@ -60,11 +60,11 @@ perfect infinitive passive - Pollicitum Esse
 
 third plural pluperfect subjunctive active - Polliciti Essent
 
+-
+-
+-
 
-
-
-
-English and Latin Relative Clauses
+*English and Latin Relative Clauses*
 
 1-The brothers, who came to the wedding with Eurytion, were violent Centaurs.
 1. Tanslated pronoun- qui
