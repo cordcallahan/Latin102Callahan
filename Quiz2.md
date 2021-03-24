@@ -2,37 +2,62 @@ Verb synopses
 Check one verb of the first or second conjugation *other than8 amo or habeo, and one verb of the third or third-io conjugation other than capio or duco. For each verb, complete the following synopsis, and translate indicative forms as complete sentences.
 
 Vetō
+
 third plural present indicative active - Vetant
 
 third plural present subjunctive active - Vetent
 
 third plural imperfect indicative active - Vetabant
+
 present infinitive active - Vetare
+
 third plural imperfect subjunctive active - Vetarent
+
 third plural perfect indicative active - Vetaverunt
+
 perfect infinitive passive - Vetatum Esse
+
 third plural pluperfect subjunctive active - vetavissent
 
+
 Video
+
 third plural present indicative active - Vident
+
 third plural present subjunctive active - Videant
+
 third plural imperfect indicative active - Videbant
+
 present infinitive active - Videre
+
 third plural imperfect subjunctive active - Viderent
+
 third plural perfect indicative active - Viderunt
+
 perfect infinitive passive - Visum Esse
-third plural pluperfect subjunctive active - vidissent
+
+third plural pluperfect subjunctive active - Vidissent
+
 
 
 Polliceor
+
 third plural present indicative active - Pollicentur
+
 third plural present subjunctive active - Polliceantur
+
 third plural imperfect indicative active - Pollicebantur
+
 present infinitive active - Pollicere
+
 third plural imperfect subjunctive active - Pollicerentur
+
 third plural perfect indicative active - Polliciti Sunt
+
 perfect infinitive passive - Pollicitum Esse
+
 third plural pluperfect subjunctive active - Polliciti Essent
+
 
 
 
