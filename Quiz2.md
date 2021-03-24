@@ -20,6 +20,7 @@ perfect infinitive passive - Vetatum Esse
 third plural pluperfect subjunctive active - vetavissent
 
 
+
 Video
 
 third plural present indicative active - Vident
@@ -37,9 +38,10 @@ third plural perfect indicative active - Viderunt
 perfect infinitive passive - Visum Esse
 
 third plural pluperfect subjunctive active - Vidissent
-.
-.
-.
+
+
+
+
 Polliceor
 
 third plural present indicative active - Pollicentur
@@ -57,8 +59,6 @@ third plural perfect indicative active - Polliciti Sunt
 perfect infinitive passive - Pollicitum Esse
 
 third plural pluperfect subjunctive active - Polliciti Essent
-
-
 
 
 
