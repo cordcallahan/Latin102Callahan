@@ -60,12 +60,12 @@ English and Latin Relative Clauses
 3. Nominative, subject of the verb
 
 5-Nessus gave Deianira a vial of blood, which poisoned Hercules.
-1.cui
+1. cui
 2. Blood, masculine, singular
 3. Dative, indicating the recipient of an action
 
 6-In Egypt, Hercules killed the priest Brusiris, who regularly sacrificed foreigners.
-1.qui
+1. qui
 2. Brusiris, masculine, singular
 3. Nominative, subject of the verb
 
