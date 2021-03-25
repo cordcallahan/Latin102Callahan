@@ -98,7 +98,7 @@ third plural pluperfect subjunctive active - Polliciti Essent
 
 7-Prometheus’ heart was devoured by an eagle, which Hercules shot dead with his arrows.
 1. quam
-2. Eagle, masculine, plural
+2. Eagle, feminie, plural
 3. Nominative, subject of the action
 
 8-Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.
@@ -106,10 +106,10 @@ third plural pluperfect subjunctive active - Polliciti Essent
 2. Lycus, masculine, singular
 3. Nominative, subject of the action
 
-9-Hercules, who Apollo refused to give an oracle, stole a tripod from the temple at Delphi.
-1. qui
+9-Hercules, to whom Apollo refused to give an oracle, stole a tripod from the temple at Delphi.
+1. cui
 2. Hercules, masculine, singular
-3. Nominative, subject of the action
+3. dative, subject of the action
 
 10-Juno drove Hercules, who killed his own wife Megara, into a fit of madness.
 1. qui
