@@ -71,8 +71,8 @@ third plural pluperfect subjunctive active - Polliciti Essent
 2. Antecedent, gender, number- Brothers, masculine, plural
 3. Latin pronoun case, why its the case- nominative, subject of the verb
 
-2-Dexamenus was afraid of Euryion, who was promised Deianira in marriage.
-1. qui
+2-Dexamenus was afraid of Euryion, to whom Deianira was promised.
+1. cui
 2. Euryion, masculine, singular
 3. Nominative, subject of the verb
 
