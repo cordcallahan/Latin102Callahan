@@ -97,7 +97,7 @@ third plural pluperfect subjunctive active - Polliciti Essent
 3. Nominative, subject of the verb
 
 7-Prometheus’ heart was devoured by an eagle, which Hercules shot dead with his arrows.
-1. qui
+1. quam
 2. Eagle, masculine, plural
 3. Nominative, subject of the action
 
