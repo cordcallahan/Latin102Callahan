@@ -74,7 +74,7 @@ third plural pluperfect subjunctive active - Polliciti Essent
 2-Dexamenus was afraid of Euryion, to whom Deianira was promised.
 1. cui
 2. Euryion, masculine, singular
-3. Nominative, subject of the verb
+3. dative, indirect object
 
 3-Eurytion, whose brothers were centaurs, was expected to marry Deianira.
 1. cuius
@@ -89,7 +89,7 @@ third plural pluperfect subjunctive active - Polliciti Essent
 5-Nessus gave Deianira a vial of blood, which Hercules was poisoned by.
 1. quo
 2. Blood, masculine, singular
-3. Dative, indicating the recipient of an action
+3. Ablative, object of possession.
 
 6-In Egypt, Hercules killed the priest Brusiris, who regularly sacrificed foreigners.
 1. qui
@@ -99,7 +99,7 @@ third plural pluperfect subjunctive active - Polliciti Essent
 7-Prometheus’ heart was devoured by an eagle, which Hercules shot dead with his arrows.
 1. quam
 2. Eagle, feminie, plural
-3. Nominative, subject of the action
+3. accusative direct object
 
 8-Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.
 1. qui
@@ -111,10 +111,10 @@ third plural pluperfect subjunctive active - Polliciti Essent
 2. Hercules, masculine, singular
 3. dative, subject of the action
 
-10-Juno drove Hercules, who killed his own wife Megara, into a fit of madness.
-1. qui
+10-Hercules, whom Juno drove into a fit maddness, killed his own wife Megara.
+1. quem
 2. Hercules, masculine, singular
-3. Nominative, subject of the action
+3. Accusative, Direct object
 
 
 
