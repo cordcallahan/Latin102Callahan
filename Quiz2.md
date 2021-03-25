@@ -98,7 +98,7 @@ third plural pluperfect subjunctive active - Polliciti Essent
 
 7-Prometheus’ heart was devoured by an eagle, which Hercules shot dead with his arrows.
 1. quam
-2. Eagle, feminie, plural
+2. Eagle, feminie, singular
 3. accusative direct object
 
 8-Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.
