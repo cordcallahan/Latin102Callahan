@@ -86,8 +86,8 @@ third plural pluperfect subjunctive active - Polliciti Essent
 2. Nessus, masculine, singular
 3. Nominative, subject of the verb
 
-5-Nessus gave Deianira a vial of blood, which poisoned Hercules.
-1. cui
+5-Nessus gave Deianira a vial of blood, which Hercules was poisoned by.
+1. quo
 2. Blood, masculine, singular
 3. Dative, indicating the recipient of an action
 
