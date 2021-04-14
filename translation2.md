@@ -1,9 +1,19 @@
-**Needs revisions**
+A. Gramatical Analysis
 
-❌ Section A?
-
-
-
+Deianira,
+  Uxor Herculis, flumen magnum,
+    cui nomen Evenus *erat*
+non *poterat transire*
+et centaurum Nessum
+  qui filius Ixionis et Nubis *erat*,
+auxilium *rogavit.*
+Hic
+  Deianiram *sublatam* in flumine ipso *violare*
+*Voluit.*
+  Huc
+Hercules
+  cum *intervenisset
+    et Deianira cum fidem eius *implorasset,*
 
 B. Gramatical Questions 
 1. Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
