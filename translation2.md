@@ -3,11 +3,15 @@ A. Gramatical Analysis
 Deianira,
 >Uxor Herculis, flumen magnum,
 >>cui nomen Evenus *erat*
+
 non *poterat transire*
+
 et centaurum Nessum
 >qui filius Ixionis et Nubis *erat*,
 auxilium *rogavit.*
+
 Hic
+
 >Deianiram *sublatam* in flumine ipso *violare*
 *Voluit.*
 >Huc
