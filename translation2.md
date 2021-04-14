@@ -20,7 +20,7 @@ Hic
 >Huc
 
 Hercules
->cum *intervenisset
+>cum *intervenisset*
 >>et Deianira cum fidem eius *implorasset,*
 
 B. Gramatical Questions 
