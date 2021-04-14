@@ -14,8 +14,11 @@ auxilium *rogavit.*
 Hic
 
 >Deianiram *sublatam* in flumine ipso *violare*
+
 *Voluit.*
+
 >Huc
+
 Hercules
 >cum *intervenisset
 >>et Deianira cum fidem eius *implorasset,*
