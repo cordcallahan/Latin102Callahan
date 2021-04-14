@@ -23,6 +23,21 @@ Hercules
 >cum *intervenisset*
 >>et Deianira cum fidem eius *implorasset,*
 
+Nessum sagittis *confixit.*
+
+ille
+>*moriens,* cum *sciret*
+>>sagittas Hydrae Lernaeae
+>>>felle tinctas magnam vim *habere*
+
+sanguinem suum
+>exceptum
+
+Deianirae *dedit* et
+>id philtrum *esse*
+
+*dixit*
+
 B. Gramatical Questions 
 1. Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
 
