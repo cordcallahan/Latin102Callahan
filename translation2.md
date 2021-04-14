@@ -40,19 +40,10 @@ Neuter accusative singular perfect passive
 
 9. William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin.
 
-❌?
 
 
 C translation
 
-Deianira, wife of Hercules, could not cross the great river, whose name was Evenus, 
-
-he could not pass, and the centaurum Nessum, who is the son of Ixionis and Nubes asked for help.❌
-
-After she had been carried up the river automatically uiolare wanted her. ❌
-
-When Hercules came and Deianria implored his help , he pierced Nexus with his arrows.
-
-While dying, he knew that the arrows were potent because they were in posion of the Hydra Lerna, he gave his blood to Deinira.❌
+Deianira, wife of Hercules, could not cross the big river, whose name was Evenus, and asked the centaur Nessus, who was the son of Ixion and Nubes, for help. When Deianira was being taken through the river, Nessus wanted to rape her. When Hercules came to the river and Deianira begged for his help, he pierced Nessus with arrows. As Nessus was dying, since he knew that the arrows had great power, he gave his blood to Deienira and said that it was a love potion.
 
 
