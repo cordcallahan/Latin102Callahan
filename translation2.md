@@ -1,7 +1,7 @@
 A. Gramatical Analysis
 
 Deianira,
-  Uxor Herculis, flumen magnum,
+>Uxor Herculis, flumen magnum,
     cui nomen Evenus *erat*
 non *poterat transire*
 et centaurum Nessum
