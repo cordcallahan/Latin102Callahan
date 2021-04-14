@@ -8,6 +8,7 @@ non *poterat transire*
 
 et centaurum Nessum
 >qui filius Ixionis et Nubis *erat*,
+
 auxilium *rogavit.*
 
 Hic
