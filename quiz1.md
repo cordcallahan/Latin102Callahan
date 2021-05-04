@@ -4,7 +4,7 @@ Translate prepositional phrases.
 
 filiam | feminine, accusative, singular
 
-in coniugium |  =nueter, accusative, singular
+in coniugium |  nueter, accusative, singular
 
 animo  |   masculine, dative/ablative, singular
 
@@ -42,7 +42,7 @@ Centaurs are being killed by Hercules. (Use the present tense).  interficiuntur
 
 Centaurs were being killed by Hercules. (Use the perfect tense).  interficiebatur
 
-Centaurs were killed by Hercules. (Use the perfect tense).   interfecti sunt?
+Centaurs were killed by Hercules. (Use the perfect tense).   interfecti sunt
 
 When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) 	interfecisset
 
