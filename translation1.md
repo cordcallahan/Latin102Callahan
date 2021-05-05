@@ -18,9 +18,13 @@ centaurus Eurytion *petit* Deianiram uxorem.
 >se *daturum*
 
 Tempore certo, *venit* centaurus cum fratribus ad nuptias.
+
 Hercules *interuenit*
+
 et centaurum *interfecit*
+
 Deianiram *abduxit*.
+
 
 
 B. Grammatical questions
