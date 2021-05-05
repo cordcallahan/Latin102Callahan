@@ -1,25 +1,22 @@
 **Needs revisions**.  Revsions below
 **Good job on the translation.**
 
-A. Grammatical analysis ❌ *Review what we did in breakout session on Monday to see how we're anlayzing dependency relations.*
+A. Grammatical analysis 
 
 
-Hercules cum *in hospitium* ad Dexamenum
-	>regem *venisset*
-	>>eiusque filiam Deianiram *deuirginasset*
-	>>>volebat eam *uxorem* ducere
-
-Cum Hercules *abesset*
-	>centaurus Eurytion *petit* Deianiram uxorem
-
-Quia pater eius centaurum *timebat*
-	>*pollicitus* est
-
-Tempore certo, *venit* centaurus cum fratribus ad nuptias
-
+Hercules
+>cum in hospitium ad Dexamenum regem *venisset*
+>>eiusque filiam Deianiram *deuirginasset,*
+*volebat* eam uxorem *ducere*
+>cum Hercules *abesset*,
+centaurus Eurytion *petit* Deianiram uxorem.
+>quia pater eius centaurum *timebat,*
+*pollicitus est*
+>se *daturum*
+Tempore certo, *venit* centaurus cum fratribus ad nuptias.
 Hercules *interuenit*
-	>centaurum *interfecit*
-	>>Deianiram *abduxit*
+et centaurum *interfecit*
+Deianiram *abduxit*.
 
 
 B. Grammatical questions
