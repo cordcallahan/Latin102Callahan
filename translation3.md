@@ -28,9 +28,9 @@ What Latin verb form has to be understood in the clause that runs from equorum t
 >The form to be understood isthe form of "to be" which is implied in the past tense.
 
 
-**Literary Commentary**
+**C. Literary Commentary**
 "Concubuit" is a verb necessary verb to depict Pasiphae's relationship with the bull. This passage would have different points of emphasis without it because its such a jarring statement. On top of "concubuit, we also see the phrase "letting the river in" which give the audience more of a context as to how Hercules cleaned the stall with more than just Juppiters help.
 
 
-**D.Translation**
+**D. Translation**
 Hercules cleaned the manure from the stall of King Augeas in one day, for the greater part while Juppiter was helping; By letting the river in, he washed all the manure. He brought back the bull alive, with whom Pasiphae had slept, out of Crete to Mycenae. Hecules killed King Diomedes of Thrace and his four horses, who used to feed on human flesh, together with his slave Abderum; and the names of the horses were Podargus, Lampon, Xanthus, and Dinus.
