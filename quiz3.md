@@ -23,5 +23,54 @@ Dictionary skills, 2: verb forms
 9.detraho, detrahere, detraxi, detractum.
 10.soleo, solere, - , solitus.
 11.affero, affere, attuli, allatum.
-12.
+
+
+Dictionary skills, 3: proper nouns and adjectives
+Dictionaries do not include large numbers of proper names and adjectives. Compose a dictionary for the proper nouns in the following phrases:
+
+luna, lunae, f.
+
+minerva, minvervae, f.
+
+phyrgia, phyrgius, n.
+
+creta, cretae, f. 
+
+thracia, thraciae, f.
+
+abderus, abderi, m.
+
+eurystheus, eurysthei, m.
+
+
+
+nemeus, nemea, nemeum.
+
+learneus, learnea, learneum.
+
+eurmanthius, eurmanthia, eurmanthium.
+
+stymphalis, stymphalidis.
+
+amazonus, amazona, amazonum.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
