@@ -1,1 +1,4 @@
+This art work depicts the scene we see at the end of Translation 3 / Hyginus, chapter 30, sections 7-9, where Hercules kills King Diomedes. Upon research into different illistrations of this scene, I've become aware that this story is refered to as the Mares of Diomedes. In the image I chose of the scene, there are as many as 8 horse. This is a stark contrast from Hyginus in which there are half the amount of horses as depicted with the words "equos quattuor". It's unclear if the horses in these images have attempted to or will attempt to eat the flesh of the King so I will choose not to comment on that language. Instead, I'll point to another difference between Hyginus and this illistration. While Hercules stands alone after killing Diomedes in this image, Hyginus writes "cum Abdero famulo interfecit" which indicates that he had the help of his servant Abderus. 
 
+
+image: http://www.maicar.com/GML/000PhotoArchive/Liebig/slides/liebher2.3.html 
