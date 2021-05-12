@@ -11,8 +11,10 @@ Diomedem Thraciae regem et equos quattuor eius,
 **B. Gramatical Questions**
 In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase
 >Ablative/Ablative aboslute
+
 What case is stercus, and why is it in that case?
 >Accusative/ direct object of purgavit
+
 Identify the form of the adjective maiorem (gender, case, number, degree).
 >accusative, feminine, singular, comparitive
 Explain the construction of the verbal unit flumine admisso.
