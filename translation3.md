@@ -33,4 +33,4 @@ What Latin verb form has to be understood in the clause that runs from equorum t
 
 
 **D. Translation**
-Hercules cleaned the manure from the stall of King Augeas in one day, for the greater part while Juppiter was helping; By letting the river in, he washed all the manure. He brought back the bull alive, with whom Pasiphae had slept, out of Crete to Mycenae. Hecules killed King Diomedes of Thrace and his four horses, who used to feed on human flesh, together with his slave Abderum; and the names of the horses were Podargus, Lampon, Xanthus, and Dinus.
+Hercules cleaned the manure from the stall of King Augeas in one day, for the greater part while Juppiter was helping; By letting the river in, he washed all the manure. He brought back the bull alive, with whom Pasiphae had slept, out of Crete to Mycenae. Hecules killed King Diomedes of Thrace and his four horses, who used to feed on human flesh, together with his slave Abderus; and the names of the horses were Podargus, Lampon, Xanthus, and Dinus.
