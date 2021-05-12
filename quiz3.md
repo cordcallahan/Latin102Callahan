@@ -1,1 +1,27 @@
+Dictionary skills, 1: noun-adjective pairs
+
+1.Uno, unus, una, unum./ Die, dies, diei, m.
+2.Totus, a, um./ Stercus, stercoris, n.
+3.Cervus, cervi, m. ferox, ferocis, m.
+4.tantus, a, um. vis, vis, f.
+5.sagitta, sagittae, f. suus, sua,sum.
+6.cornu, cornus, f. aureus, aurea, aureum.
+7.caro, carnis, m. humanus, humana, humanum.
+8.draco, draconis, m. immanis, immanes.
+9.malum, mali,n. aureus, aurea, aureum.
+
+Dictionary skills, 2: verb forms
+
+1.transeo, transire, transivi, transitum.
+2.afflo, afflare, afflavi, afflatum.
+3.morior, mori, mortuus, morium.
+4.exinteravit, exitero, exiterare, exiiteratus.
+5.effugio, effugere, effugi, effugitum.
+6.adduco,adducere, adduxi, adductum.
+7.iaculor, iaculari, iaculatus, - .
+8.vescor, vesci, -, -.
+9.detraho, detrahere, detraxi, detractum.
+10.soleo, solere, - , solitus.
+11.affero, affere, attuli, allatum.
+12.
 
